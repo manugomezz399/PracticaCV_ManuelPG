@@ -8,5 +8,17 @@ namespace PracticaCV_ManuelPG
 {
     internal class Clase_ManuelPG
     {
+        // CONSTANTES
+
+        // MIEMBROS / CAMPOS
+
+        // CONSTRUCTORES
+
+        // PROPIEDADES
+
+        // METODOS PRIVADOS
+
+        // METODOS PUBLICOS
+
     }
 }
