@@ -1,4 +1,6 @@
-﻿namespace PracticaCV_ManuelPG
+﻿using static System.Runtime.InteropServices.JavaScript.JSType;
+
+namespace PracticaCV_ManuelPG
 {
     internal class Program
     {
@@ -15,7 +17,8 @@
             // PROCESAMIENTO
 
             // SALIDA
-         
+            Console.WriteLine("Mi nombre es: ManuelPG");
+
         }
     }
 }
